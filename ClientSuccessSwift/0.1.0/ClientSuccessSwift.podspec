@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
 s.platform = :ios
-s.ios.deployment_target = '9.0'
+s.ios.deployment_target = '8.1'
 s.name = "ClientSuccessSwift"
 s.summary = "ClientSuccessSwift provides a method to create an even using the clientsuccess API"
 s.requires_arc = true
