@@ -6,7 +6,7 @@ s.name = "ClientSuccessSwift"
 s.summary = "ClientSuccessSwift provides a method to create an even using the clientsuccess API"
 s.requires_arc = true
 
-s.version = "0.1.0"
+s.version = "1.0.0"
 
 s.license = { :type => "MIT", :file => "LICENSE" }
 
